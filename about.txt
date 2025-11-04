@@ -1,0 +1,4 @@
+Hi! I'm Meher Sirkhot, a first-year Computer Science and Engineering student.  
+This is my very first GitHub project created to learn how version control and collaboration work.  
+In this project, I’m exploring basic GitHub features like commits, branches, and pull requests.  
+I look forward to building more coding projects and improving my programming skills!
